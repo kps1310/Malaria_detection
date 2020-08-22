@@ -2,6 +2,5 @@
 Detecting Malaria using Convolutional Neural Network
 
 
-### Dataset
-https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
-
+### Dataset and its description
+This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
